@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #E8E8FD;
+  font-family: 'Poppins', sans-serif;
+}
+
+#root {
+  max-width: 100%;
+  max-height: 100%;
+}
